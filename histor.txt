@@ -1,0 +1,27 @@
+
+  194  pwd
+  195  mkdir 888
+  196  cd 888
+  197  mkdir 777 666 898
+  198  cd 666
+  199  touch 1.txt 2.txt 3.txt 4.json 5.json
+  200  mkdir 525 565 636
+  201  ls -la
+  202  cat > 1.txt
+  204  cd ..
+  205  cd 666
+  208  mv 2.txt 3.txt 525
+  209  cd 525
+  212  cd ..
+  214  ls -la
+  215  cp 4.json 5.json 525
+  216  find -name "5.json"
+  217  history >> hist.txt
+  218  tail hist.txt
+  219  head -2 hist.txt
+  220  tail -2 hist.txt
+  221  less -a hist.txt
+  222  date
+  223  curl http://162.55.220.72:5005
+  224  nano dz.sh
+  225  history >>histor.txt
