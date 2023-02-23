@@ -1,0 +1,9 @@
+title:Click button [Play] on video
+Preconditions:
+	capital.com is open 
+	Language -English
+	Unregistred user
+steps: Click button [Play]
+er: The video is playing
+ar:
+comment:
