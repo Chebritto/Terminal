@@ -1,0 +1,13 @@
+id: 098
+title : New BagReport
+Enviroment: Windows 11
+Precondition: url
+Severity : critical
+Priority: Medium
+Str: 2,3,5
+AR:
+ER:
+Attachments:
+
+	Author: Bla bla
+	Date:dd.mm.yyyy
